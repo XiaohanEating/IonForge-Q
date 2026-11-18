@@ -1,0 +1,2 @@
+# Core verification; CAD and COMSOL dependencies are optional.
+numpy==1.26.4

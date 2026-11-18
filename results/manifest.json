@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "scope": "Verification result tables only; consistency checks do not recompute fields or repeat measurements.",
+  "files": [
+    {
+      "path": "results/analytic_control.csv",
+      "sha256": "829bff2fcc11c45c377b81f16bdcb0df9b6b3bb533c9728742d99292f16f406a"
+    },
+    {
+      "path": "results/assignments.csv",
+      "sha256": "b1d13e43ba0bb76db30321fa3d88f58274ed839802259c5e3180270462c86fb1"
+    },
+    {
+      "path": "results/dependencies.csv",
+      "sha256": "20c0a75bf17ad3da717ec0feb8b0d082c4cd0aaf6bb14aae70942d17e86d91de"
+    },
+    {
+      "path": "results/fault_detection.csv",
+      "sha256": "45412da249553ae0cfe934c893f07ea7baf1dc366ff902e227b9f8cac907b622"
+    },
+    {
+      "path": "results/linearity.csv",
+      "sha256": "eabecf3c9fd815a70e9ff4cfd48959481c66f265d73d909f77f30e315a2b0f6a"
+    },
+    {
+      "path": "results/mesh_response.csv",
+      "sha256": "031d62b1b1f3b519353526a568841385b2f6700cf6ba3579d731e785c2c2240b"
+    },
+    {
+      "path": "results/renumbering.csv",
+      "sha256": "6da16dd06007d92837fec06946ff3af4a4fa97edc0f8808428ea4c59fdcaf0f7"
+    },
+    {
+      "path": "results/response_acceptance.csv",
+      "sha256": "937677add60b14f490deda60b9c0245098ae873cdfbd67de077cd7402271cfce"
+    }
+  ]
+}

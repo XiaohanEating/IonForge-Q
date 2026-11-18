@@ -1,0 +1,7 @@
+import_order,method,correct_electrodes,total_electrodes
+AB,static_ids,40,40
+AB,native_propagation,38,40
+AB,checked_mapping,40,40
+BA,static_ids,40,40
+BA,native_propagation,38,40
+BA,checked_mapping,40,40

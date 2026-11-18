@@ -1,0 +1,6 @@
+* text=auto eol=lf
+results/*.csv -text
+*.mph -text
+*.npz -text
+*.png -text
+*.step -text

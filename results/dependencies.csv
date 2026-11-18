@@ -1,0 +1,8 @@
+changed_input,invalidated_stages,old_field_reusable
+geometry,cad;mapping;mesh;field;samples,false
+roles,mapping;field;samples,false
+materials,field;samples,false
+drives,field;samples,false
+mesh_settings,mesh;field;samples,false
+solver,field;samples,false
+sampling,samples,true

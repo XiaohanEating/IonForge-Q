@@ -1,0 +1,9 @@
+test_type,import_order,case,detected
+live_model,BA,missing_face,true
+live_model,BA,swapped_A7_A8,true
+live_model,BA,shared_A7_B7_face,true
+live_model,BA,wrong_voltage,true
+record_replay,AB,missing_face,true
+record_replay,AB,swapped_A7_A8,true
+record_replay,AB,shared_A7_B7_face,true
+record_replay,AB,wrong_voltage,true
